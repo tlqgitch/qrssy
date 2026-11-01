@@ -6,6 +6,7 @@ int main(void)
 
   while (1)
   {
-    //实验一：LED点灯
+    //实验一：LED点灯循环
   }
 }
+
